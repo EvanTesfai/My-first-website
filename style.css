@@ -1,0 +1,58 @@
+body {
+  width: 600px;
+  margin: 30px auto;
+  border: 2px solid red;
+  padding: 30px 75px;
+  border-radius: 15px;
+  background: #ce222283;
+  box-shadow: 35px 35px 70px #af1d1d, -35px -35px 70px #ed2727;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+h1 {
+  color: rgb(255, 0, 0);
+  text-align: center;
+}
+
+#nba {
+  text-align: center;
+}
+
+img {
+  width: 300px;
+  border-radius: 15px;
+  border: 3px solid rgba(252, 23, 23, 1);
+}
+#coding {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  color: red;
+  font-style: italic;
+}
+p {
+  text-align: center;
+  font-weight: bold;
+}
+html {
+  background: url(images/sunset-minimalist-wallpaper-2560x1600_7.jpg);
+  background-size: cover;
+  margin: auto;
+}
+.link {
+  color: black;
+}
+#basketball {
+  text-align: center;
+}
+
+.link:hover {
+  border: 1px solid red;
+  padding: 2px 4px;
+}
+
+li {
+  font-weight: bold;
+}
